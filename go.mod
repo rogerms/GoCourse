@@ -1,3 +1,3 @@
-module github.com/siroger/gowebservice
+module github.com/rogerms/gowebservice
 
 go 1.14
